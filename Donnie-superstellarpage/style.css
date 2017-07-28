@@ -1,0 +1,35 @@
+header {
+    height: 192px;
+    background: black;
+    border:5px solid red;
+}
+
+#space {
+    height: 374px;
+    background: blue;
+    border: 5px solid red;
+}
+
+#title {
+    height: 138px;
+    background: yellow;
+    border: 0px;
+}
+
+#bar {
+    height: 58px;
+    background: Green;
+    border: 0px;
+}
+
+#filler {
+    height: 316px;
+    background:purple;
+    border: 0px;
+}
+
+img {
+    height:20px;
+    width: 50px;
+}
+
