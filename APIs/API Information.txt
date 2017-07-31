@@ -1,0 +1,22 @@
+firstAPITest key: AIzaSyBOJ9jSHVdTmOwh1ZkKAvfr0aUmg0YkYac
+
+
+https://maps.googleapis.com/maps/api/staticmap?center=Brooklyn+Bridge,New+York,NY&zoom=13&size=600x300&maptype=roadmap&markers=color:blue%7Clabel:S%7C40.702147,-74.015794&key=AIzaSyBOJ9jSHVdTmOwh1ZkKAvfr0aUmg0YkYac
+
+
+
+
+Nutritionix AP! v1.1 Key template
+
+
+https://api.nutritionix.com/v1_1/search/mcdonalds?results=0:20&fields=item_name,brand_name,item_id,nf_calories&appId=APPID&appKey=APPKEY
+
+APPID: 65f3ff5b
+
+APPKEY:9c34320c9b96eb7f769a61fe3c1a81fd
+
+
+https://api.nutritionix.com/v1_1/search/mcdonalds?results=0:20&fields=item_name,brand_name,item_id,nf_calories&appId=65f3ff5b&appKey=9c34320c9b96eb7f769a61fe3c1a81fd
+0:20 means give me the first 20 results from this search. 
+
+

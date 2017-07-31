@@ -1,0 +1,42 @@
+header {
+    height:150px;
+    background: black;
+}
+
+
+
+.Space {
+    height:405px;
+    background: red;
+    border-width: 5px;
+    border-style: solid;
+    border-color: blue;
+}
+
+.spaces {
+    height: 810px;
+}
+
+.sides {
+    position: absolute;
+    top: 150px;
+}
+
+#JourneyBar {
+    position: relative;
+    height: 810px;
+    width:400px;
+    background:green;
+    z-index: 1;
+    left: 237%
+   
+}
+
+#InformationBar {
+    position: relative;
+    width:200px;
+    background: yellow;
+    z-index: 1;
+    left:0%;
+    
+}
